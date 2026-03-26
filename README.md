@@ -4,7 +4,7 @@
 
 This project simulates the B92 Quantum Key Distribution protocol to demonstrate secure key exchange using principles of quantum mechanics.
 It includes eavesdropping detection, performance analysis, and secure key generation.
----
+
 ## Features
 
 B92 QKD Protocol Simulation
